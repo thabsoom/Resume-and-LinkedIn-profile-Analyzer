@@ -56,12 +56,12 @@ An AI-powered web application built with **Streamlit** that analyzes resumes and
 ## 📂 Project Structure
 
 ```
-AI-Resume-LinkedIn-Analyzer/
+Resume-and-LinkedIn-profile-Analyzer/
 │
-├── analyzer.py          # Main Streamlit application
-├── requirements.txt     # Python dependencies
+├── analyzer.py         
+├── requirements.txt     
 ├── README.md
-└── assets/              # (Optional) screenshots/images
+└── assets/            
 ```
 
 ---
@@ -71,7 +71,7 @@ AI-Resume-LinkedIn-Analyzer/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/AI-Resume-LinkedIn-Analyzer.git
+git clone https://github.com/thabsoom/Resume-and-LinkedIn-profile-Analyzer.git
 ```
 
 ```bash
@@ -191,19 +191,6 @@ The application generates:
 
 ---
 
-## 🚀 Future Improvements
-
-* LinkedIn Profile PDF parsing
-* Resume grammar analysis
-* Experience-level detection
-* Skill recommendations based on job role
-* Resume rewriting using Generative AI
-* Multiple resume comparison
-* Cover letter generator
-* Export analysis report as PDF
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!
@@ -229,17 +216,3 @@ git push origin feature-name
 
 5. Open a Pull Request
 
----
-
-## 👨‍💻 Author
-
-**Your Name**
-
-* LinkedIn: https://linkedin.com/in/your-profile
-* GitHub: https://github.com/your-username
-
----
-
-## ⭐ If you found this project helpful...
-
-Please consider giving the repository a **Star ⭐**. It helps others discover the project and supports future improvements.
